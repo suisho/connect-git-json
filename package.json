@@ -1,0 +1,19 @@
+{
+  "name": "connect-git-json",
+  "version": "0.0.0",
+  "description": "Return git repository info as json",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "connect": "~2.7.3"
+  },
+  "dependencies": {
+    "supertest": "~0.5.1"
+  }
+}
