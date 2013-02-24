@@ -13,7 +13,7 @@ var nonArgsFunctions = [
   'status',
   'tags',
   'branches',
-  'branche', //err
+  'branch'
 ]
 var argsFunc = [
   'remote_add',
