@@ -11,9 +11,10 @@
   "license": "BSD",
   "devDependencies": {
     "mocha": "~1.8.1",
-    "connect": "~2.7.3"
+    "connect": "~2.7.3",
+    "supertest": "~0.5.1",
   },
   "dependencies": {
-    "supertest": "~0.5.1"
+    "gift": "0.0.5"
   }
 }
